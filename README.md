@@ -9,6 +9,8 @@
 
 **bold type font style**
 
+**This text is _extremely_ important**
+
 ***bold and italic type font style***
 
 * Fruits
@@ -28,3 +30,6 @@ Sno|Name|roll no.
 ----|----|----
 1|Hemanth|515
 2|Anil|541
+
+:+1: :mask: :sleeping_bed:
+
