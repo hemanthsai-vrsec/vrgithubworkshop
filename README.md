@@ -9,7 +9,7 @@
 
 **bold type font style**
 
-**This text is _extremely_ important**
+~~**This text is _extremely_ important**~~
 
 ***bold and italic type font style***
 
@@ -28,8 +28,10 @@
 
 Sno|Name|roll no.
 ----|----|----
-1|Hemanth|515
+1|Aaryan|557
 2|Anil|541
+3|Uday|552
+4|Hemanth|515
 
 :+1: :mask: :sleeping_bed:
 
